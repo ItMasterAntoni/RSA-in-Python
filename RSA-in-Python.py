@@ -102,3 +102,5 @@ def main():
     print('\n**************************************')
     print('Thanks for using my script')
     print('The next ones are coming soon')
+    
+main()
